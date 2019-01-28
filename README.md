@@ -3,3 +3,4 @@ A comparison of the different kitgun grips in Warframe under stock conditions, w
 
 
 Basically, I did this project as an Internal Assessment for my IB Math class, and I decided I might as well post it here.
+Check the wiki if you don't want to download the file.
